@@ -16,14 +16,3 @@ Vector Database: Pinecone
  for semantic search and retrieval
 
 Environment: Python, .env for API key management
-
-
-.
-├── src/                # Main source code
-│   ├── app.py          # Streamlit app script
-│   ├── chatbot.py      # Core RAG chatbot logic
-│   └── materials/      # Knowledge base / documents
-├── report/             # Project reports & documentation
-├── video/              # Demo presentation
-├── .env                # API keys (not committed to Git)
-└── README.md           # Project description
